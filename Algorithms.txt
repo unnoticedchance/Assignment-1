@@ -1,0 +1,44 @@
+//Convert a given tempature for Celsius to Fahrenheit
+Step 1 START
+
+Step 2 Prompt user for a value in celsius
+
+Step 3 Read the input
+
+Step 4 Convert tempature using F = (9*C)/5+32
+
+Step 5 Print temperature in fahrenheit
+
+Step 6 STOP
+
+//Decide if given number is even of odd
+Step 1 START 
+
+Step 2 Prompt user for a number
+
+Step 3 Read the input
+
+Step 4 If Input ends in "0, 2, 4, 6, 8" Output "Even" 
+
+                     Else                
+                                        Output "Odd"
+
+Step 5 Print Output
+
+Step 6 STOP
+
+//Select the greatest element
+Step 1 START
+
+Step 2 Prompt user for a list of numbers
+
+Step 3 Set Max to value 1
+         IF next value > Max 
+   THEN
+         SET Max to next value
+
+Step 4 Continue until the end of the list 
+
+Step 5 Output MAX value
+
+Step 6 Stop
